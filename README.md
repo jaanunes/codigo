@@ -8,7 +8,7 @@
 ##
 - Estruturas Condicionais: Códigos que ilustram o uso de estruturas condicionais, como se, senão e escolha ❓, para a tomada de decisões em algoritmos.
 ##
--Laços de Repetição: Exemplos práticos de laços de repetição, como para e enquanto 🔄, demonstrando como executar blocos de código múltiplas vezes de maneira eficiente.
+- Laços de Repetição: Exemplos práticos de laços de repetição, como para e enquanto 🔄, demonstrando como executar blocos de código múltiplas vezes de maneira eficiente.
 ##
 - Funções: Códigos que mostram como definir e utilizar funções 📦, promovendo a reutilização de código e a organização de programas.
 ##
